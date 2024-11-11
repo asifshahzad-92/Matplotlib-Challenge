@@ -4,11 +4,9 @@ def average(numbers):
     total = 0.0
     for number in numbers:
         total += number
-        #total = total + number
     return total / length
 
 
 # Test your function with the following:
 print(average([1, 5, 9]))
 print(average(range(11)))
-print(list(range(11)))
