@@ -1,6 +1,6 @@
 # Matplotlib-Challenge
 Data Analytics Challenge
-______________________________________________________
+
 # Pymaceuticals Inc.
 ---
 
