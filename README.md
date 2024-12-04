@@ -36,17 +36,17 @@ Capomulin was the most frequently used treatment with 230 timepoints, followed c
 
     List of Number of times drugs used:
     
-    Drug Regimen    Count
-    *Capomulin     230
-    *Ramicane      228
-    *Ketapril      188
-    *Naftisol      186
-    *Zoniferol     182
-    *Stelasyn      181
-    *Placebo       181
-    *Infubinol     178
-    *Ceftamin      178
-    *Propriva      148
+Drug Regimen    Count
+- Capomulin     230
+- Ramicane      228
+- Ketapril      188
+- Naftisol      186
+- Zoniferol     182
+- Stelasyn      181
+- Placebo       181
+- Infubinol     178
+- Ceftamin      178
+- Propriva      148
 
 **Outlier Analysis:**
 
