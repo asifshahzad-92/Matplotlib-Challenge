@@ -28,7 +28,7 @@ _____________________________________
     1. Capomulin and Ramicane showed the lowest mean tumor volumes (40.68 cubic mm and 40.22 cubic mm respectively).
     2. Capomulin and Ramicane also had the smallest variance (24.95 cubic mm and 23.49 cubic mm)
     3. Standard error for Capomulin and Ramicane is lowest (0.33 cubic mm and 0.32 cubic mm), this suggest effective performance.
-    3. Ketapril had the highest mean tumor volume (55.24 mm³) and the largest variance (68.55 cubic mm) and standard error (0.60 cubic mm), indicating lower effective results.
+    4. Ketapril had the highest mean tumor volume (55.24 mm³) and the largest variance (68.55 cubic mm) and standard error (0.60 cubic mm), indicating lower effective results.
 
 **Number of times Each Drug was used:**
 
