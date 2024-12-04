@@ -14,10 +14,10 @@ _____________________________________
 2. **Duplicate Mouse ID:**
     Mouse ID *(g989)* was found to be duplicate; so, it was removed.
     
-4. **Total Mice under study:**
+3. **Total Mice under study:**
     After removing the duplicate, *248* unique mice remained in the study.
 
-5. **Gender Distribution:**
+4. **Gender Distribution:**
     The study had a nearly even split between male *125* and female *123* mice.
 
 
@@ -37,7 +37,7 @@ _____________________________________
 
     1. Capomulin was the most frequently used treatment with 230 timepoints
     2. It was followed closely by Ramicane with 228 
-    `3. Propriva had the least number of timepoints at 148
+    3. Propriva had the least number of timepoints at 148
 
 Number of times each drug used is listed below:
     
