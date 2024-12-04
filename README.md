@@ -25,16 +25,21 @@ _____________________________________
 
 **Mean, Variance, Standard Error Analysis:**
 
-    1. Capomulin and Ramicane showed the lowest mean tumor volumes (40.68 cubic mm and 40.22 cubic mm respectively).
+    1. Capomulin and Ramicane showed the lowest mean tumor volumes (40.68 cubic mm and 40.22 cubic mm respectively)
     2. Capomulin and Ramicane also had the smallest variance (24.95 cubic mm and 23.49 cubic mm)
-    3. Standard error for Capomulin and Ramicane is lowest (0.33 cubic mm and 0.32 cubic mm), this suggest effective performance.
-    4. Ketapril had the highest mean tumor volume (55.24 mm³) and the largest variance (68.55 cubic mm) and standard error (0.60 cubic mm), indicating lower effective results.
+    3. Standard error for Capomulin and Ramicane is lowest (0.33 cubic mm and 0.32 cubic mm); 
+        So, this suggest effective performance of both these drugs.
+
+    4. Ketapril had the highest mean tumor volume (55.24 mm³) and the largest variance (68.55 cubic mm)
+    5. Standard error for Ketapril (0.60 cubic mm) is highest, which indicates lower effective results
 
 **Number of times Each Drug was used:**
 
-Capomulin was the most frequently used treatment with 230 timepoints, followed closely by Ramicane with 228 while Propriva had the least number of timepoints at 148. 
+    1. Capomulin was the most frequently used treatment with 230 timepoints
+    2. It was followed closely by Ramicane with 228 
+    `3. Propriva had the least number of timepoints at 148
 
-    List of Number of times drugs used:
+Number of times each drug used is listed below:
     
 Drug Regimen:    Count
 - Capomulin:     230
@@ -54,7 +59,9 @@ Drug Regimen:    Count
 
 **Capomulin (Mouse id: l509) Treatment Analysis:**
 
-    For mouse id l509 treated with Capomulin, tumor volume initially increased from 45 cubic mm to upto 48 cubic mm over the first 20 timepoints. However, after timepoint 20, the tumor volume decreased,       which shows the efficacy of Capomulin after 20th timpoint, ending at about 41 cubic mm.
+    For mouse id l509 treated with Capomulin, tumor volume initially increased from 45 cubic mm to upto 48 cubic mm over the first 20 timepoints.
+    However, after timepoint 20, the tumor volume decreased,
+    It shows the efficacy of Capomulin after 20th timpoint, ending at about 41 cubic mm.
 
 **Correlation and Regression line Analysis:**
 
