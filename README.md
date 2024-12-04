@@ -10,6 +10,9 @@ _____________________________________
 
     1. Total *249* mice in the study.
 
+    ![image](https://github.com/user-attachments/assets/4debed8a-3b36-4eba-9ae0-b7953d527ba0)
+
+
     2. Mouse ID (g989) was found to be duplicate; so, it was removed.
     
     3. After removing the duplicate, 248 unique mice remained in the study.
